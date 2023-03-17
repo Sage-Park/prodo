@@ -266,3 +266,6 @@ replay_pid*
 
 /prodo.iml
 /.idea/
+!/.java-version
+!/.java-version
+/.java-version
